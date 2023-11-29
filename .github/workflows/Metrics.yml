@@ -54,7 +54,7 @@ jobs:
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_pwa: yes
           plugin_pagespeed_screenshot: yes
-          plugin_pagespeed_url: https://contours.tk/
+          plugin_pagespeed_url: https://contour.icu/
           plugin_stars: yes
           plugin_stars_limit: 8
           repositories_forks: yes
