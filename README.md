@@ -1,4 +1,4 @@
-# :wave: Hi, I am `delong`
+![hi](hi.svg)
 
 我来自中国山东，除了编码外我还喜欢草缸、摄影、游泳、RainbowSix。
 
@@ -6,11 +6,9 @@
 
 摄影可以记录一些无法用语言描述的画面。
 
+## 📖一些我喜欢的诗句
 
-
-## 📖 Some quotes I enjoy
-
-```
+```text
 落霞与孤鹜齐飞，秋水共长天一色。
 					-- 《滕王阁序》王勃
 雄关漫道真如铁，而今迈步从头越。
@@ -21,22 +19,47 @@
 					-- 《雾》delong
 ```
 
-## 🎵 Songs I'm Enjoying ATM
-**七月上** - Jam([网易云音乐](https://music.163.com/#/song?id=31445554))
+## 🎵 一些我喜欢的音乐
 
-**Orange Sky** - Alexi Murdoch ([网易云音乐](https://music.163.com/#/song?id=16321379))
+**七月上** - Jam
 
-**借我** - 谢春花 ([网易云音乐](https://music.163.com/#/song?id=408814900))
+**Orange Sky** - Alexi Murdoch
 
-**一腔诗意喂了狗** - 花粥 ([网易云音乐](https://music.163.com/#/song?id=460542191))
+**城南谣** - 木小雅
 
-**城南谣** - 木小雅 ([网易云音乐](https://music.163.com/#/song?id=862099930))
+**南国的孩子** - 张悬
 
-**南国的孩子** - 张悬 ([网易云音乐](https://music.163.com/#/song?id=326708))
+**它们都在这里了**
+([歌单](https://y.music.163.com/m/playlist?app_version=8.9.90&id=2086393068&userid=1360983921&dlt=0846&creatorId=1360983921))
 
+## 🛠️ 我正在学习的一些技术
 
+![Static Badge](https://img.shields.io/badge/spring-black?logo=spring)
+![Static Badge](https://img.shields.io/badge/springboot-black?logo=springboot)
+![Static Badge](https://img.shields.io/badge/gradle-black?logo=gradle)
+![Static Badge](https://img.shields.io/badge/maven-black?logo=apachemaven)
+![Static Badge](https://img.shields.io/badge/linux-black?logo=linux)
+![Static Badge](https://img.shields.io/badge/mysql-black?logo=mysql)
 
-**它们都在这里了**([歌单](https://y.music.163.com/m/playlist?app_version=8.9.90&id=2086393068&userid=1360983921&dlt=0846&creatorId=1360983921))
+![Static Badge](https://img.shields.io/badge/docker-black?logo=docker)
+![Static Badge](https://img.shields.io/badge/redis-black?logo=redis)
+![Static Badge](https://img.shields.io/badge/git-black?logo=git)
+![Static Badge](https://img.shields.io/badge/github-black?logo=github)
+![Static Badge](https://img.shields.io/badge/vue-black?logo=vuedotjs)
+![Static Badge](https://img.shields.io/badge/typescript-black?logo=typescript)
 
-## Stats 
-![Metrics](/github-metrics.svg)
+![Static Badge](https://img.shields.io/badge/npm-black?logo=npm)
+![Static Badge](https://img.shields.io/badge/pnpm-black?logo=pnpm)
+![Static Badge](https://img.shields.io/badge/vite-black?logo=vite)
+![Static Badge](https://img.shields.io/badge/antdesign-black?logo=antdesign)
+
+## 🖥️ 我的状态
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Contour-D/Contour-D/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Contour-D/Contour-D/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Contour-D/Contour-D/output/github-snake.svg" />
+</picture>
