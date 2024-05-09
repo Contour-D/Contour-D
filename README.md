@@ -58,14 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 06 May 2024
+From: 05 May 2024 - To: 07 May 2024
 
-Total Time: 1 hr 1 min
+Total Time: 3 hrs 5 mins
 
-YAML       45 mins         ██████████████████▒░░░░░░   73.67 %
-Other      15 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.01 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
-Vue.js     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+YAML          1 hr 48 mins    ██████████████▓░░░░░░░░░░   58.79 %
+Markdown      41 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.37 %
+Image (svg)   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 %
+Other         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Vue.js        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
