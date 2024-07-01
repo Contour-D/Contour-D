@@ -58,15 +58,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 28 June 2024
+From: 05 May 2024 - To: 29 June 2024
 
-Total Time: 69 hrs 54 mins
+Total Time: 70 hrs 18 mins
 
-Java                  49 hrs 35 mins  █████████████████▓░░░░░░░   70.93 %
-YAML                  9 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-Groovy                2 hrs 42 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-TypeScript            2 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Gradle                1 hr 28 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Java                  49 hrs 50 mins  █████████████████▓░░░░░░░   70.90 %
+YAML                  9 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
+Groovy                2 hrs 50 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+TypeScript            2 hrs 27 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Gradle                1 hr 29 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 Markdown              42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 HTML                  34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 SQL                   25 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
