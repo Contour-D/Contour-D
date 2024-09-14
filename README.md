@@ -58,19 +58,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 11 September 2024
+From: 05 May 2024 - To: 12 September 2024
 
-Total Time: 116 hrs 6 mins
+Total Time: 116 hrs 18 mins
 
-Java                  66 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.56 %
-YAML                  15 hrs 6 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Groovy                9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
-Kotlin                8 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Java                  67 hrs 1 min    ██████████████▒░░░░░░░░░░   57.63 %
+YAML                  15 hrs 6 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Groovy                9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Kotlin                8 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 Gradle                5 hrs 16 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-TypeScript            4 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+TypeScript            4 hrs 20 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 Properties            59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 HTML                  48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Markdown              45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+Markdown              45 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 Text                  29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
