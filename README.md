@@ -58,11 +58,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 19 September 2024
+From: 05 May 2024 - To: 20 September 2024
 
 Total Time: 130 hrs 5 mins
 
-Java                  73 hrs 21 mins  ██████████████░░░░░░░░░░░   56.38 %
+Java                  73 hrs 21 mins  ██████████████░░░░░░░░░░░   56.39 %
 YAML                  16 hrs 1 min    ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
 Kotlin                9 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 %
 Groovy                9 hrs 1 min     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
