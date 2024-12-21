@@ -58,13 +58,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 18 December 2024
+From: 05 May 2024 - To: 19 December 2024
 
 Total Time: 251 hrs 46 mins
 
 Java                  123 hrs 21 mins ████████████▒░░░░░░░░░░░░   49.00 %
 YAML                  24 hrs 13 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
-JSON                  20 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+JSON                  20 hrs 45 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
 TypeScript            17 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 JavaScript            15 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
 Kotlin                14 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
