@@ -58,18 +58,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2024 - To: 26 December 2024
+From: 05 May 2024 - To: 27 December 2024
 
-Total Time: 253 hrs 29 mins
+Total Time: 253 hrs 52 mins
 
-Java                  123 hrs 21 mins ████████████▒░░░░░░░░░░░░   48.67 %
-YAML                  25 hrs 33 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
-JSON                  20 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 %
-TypeScript            17 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-JavaScript            15 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 %
-Kotlin                14 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Java                  123 hrs 21 mins ████████████░░░░░░░░░░░░░   48.59 %
+YAML                  25 hrs 51 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+JSON                  21 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+TypeScript            17 hrs 23 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+JavaScript            15 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Kotlin                14 hrs 1 min    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
 Groovy                9 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-Vue.js                6 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Vue.js                6 hrs 50 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
 Gradle                5 hrs 19 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
 HTML                  2 hrs 27 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
